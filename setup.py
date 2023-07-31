@@ -1,4 +1,5 @@
 from setuptools import setup, find_packages
+
 setup(
     name='book_lover',
     version='1.0.0',
